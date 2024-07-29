@@ -1,0 +1,36 @@
+{
+  "$GMProject":"",
+  "%Name":"WebGPU_GameOfLife",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Game of Life","folderPath":"folders/Game of Life.yy","name":"Game of Life","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.800.0.597",
+  },
+  "name":"WebGPU_GameOfLife",
+  "resources":[
+    {"id":{"name":"obj_gameoflife","path":"objects/obj_gameoflife/obj_gameoflife.yy",},},
+    {"id":{"name":"room_gameoflife","path":"rooms/room_gameoflife/room_gameoflife.yy",},},
+    {"id":{"name":"scrConvenience","path":"scripts/scrConvenience/scrConvenience.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"room_gameoflife","path":"rooms/room_gameoflife/room_gameoflife.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

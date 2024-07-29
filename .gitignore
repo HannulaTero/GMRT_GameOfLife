@@ -1,0 +1,5 @@
+# Ignore build files.
+build/
+
+# Ignore export outputs.
+exports/

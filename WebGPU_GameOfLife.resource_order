@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Game of Life","order":10,"path":"folders/Game of Life.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_gameoflife","order":1,"path":"objects/obj_gameoflife/obj_gameoflife.yy",},
+    {"name":"scrConvenience","order":2,"path":"scripts/scrConvenience/scrConvenience.yy",},
+  ],
+}
